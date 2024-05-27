@@ -1,6 +1,7 @@
 
 # Tech For Good | 🚀👐🏻🎈👥
-<img width="100%" alt="image" src="https://github.com/BiaCavalcant/The_StarWars_Universe_Project/assets/125297211/d83ae0f4-7834-483e-aa6a-0aab7449c8a9
+<img width="100%" alt="image" src="![logo-bg](https://github.com/Grupo-6-PI/.github/assets/125297211/484d2ccf-ee0d-4805-aaba-a62e6dda4897)
+
 ">
 
 ## Descrição
