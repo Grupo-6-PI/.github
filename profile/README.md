@@ -1,6 +1,6 @@
 
 # Tech For Good | 🚀👐🏻🎈👥
-<img width="100%" alt="image" src="![logo-bg](https://github.com/Grupo-6-PI/.github/assets/125297211/484d2ccf-ee0d-4805-aaba-a62e6dda4897)">
+![logo-bg](https://github.com/Grupo-6-PI/.github/assets/125297211/484d2ccf-ee0d-4805-aaba-a62e6dda4897)
 
 ## Descrição
 <p><b>- 📌A Tech For Good </b> é uma empresa focada em promover o bem-estar social através da tecnologia, automatizando processos que são de extrema importância no terceiro setor- o setor das organizações não-governamentais.. 
